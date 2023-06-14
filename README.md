@@ -9,8 +9,8 @@ You are given a file that contains an entire program in Python. You need to writ
 
 ### Solution
 
-The solution to this challenge is written in tree-shaking.py.
-The main.py file is an example file you can test the tree-shaking functions with.
+The solution to this challenge is written in `tree-shaking.py`.
+The `main.py` file is an example file you can test the tree-shaking functions with.
 The main.py will be updated once the script in tree-shaking.py is ran with it.
 
 ### To run the script
