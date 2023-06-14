@@ -1,4 +1,4 @@
-### Tree-shaking Coding Challenge
+## Tree-shaking Coding Challenge
 
 You are given a file that contains an entire program in Python. You need to write a program that does some cleanup.
 
@@ -7,13 +7,13 @@ You are given a file that contains an entire program in Python. You need to writ
    ** Hint: Regex is useful for complex text matching. regex101.com is also useful for testing regex
    ** There should be a function called main() that is the entry, and that one should never be considered uncalled.
 
-## Solution
+### Solution
 
 The solution to this challenge is written in tree-shaking.py.
 The main.py file is an example file you can test the tree-shaking functions with.
 The main.py will be updated once the script in tree-shaking.py is ran with it.
 
-## To run the script
+### To run the script
 
 1. Clone this repo
 2. In your terminal, `cd` into the repo and run `python tree-shaking.py`
